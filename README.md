@@ -12,6 +12,7 @@ This project analyzes the adoption and trends of electric vehicles in the U.S. u
 6️⃣ *CAFV Eligibility* - Analyzing government incentive impact.  
 
 ## 📊 Dashboard Preview
+![Dashboard Screenshot](Dashboard-img.png)  
 
 🔗 *View Full Dashboard*: [Tableau Public Link](https://public.tableau.com/shared/7PQ48844T?:display_count=n&:origin=viz_share_link)
 
